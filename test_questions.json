@@ -1,0 +1,30 @@
+
+[
+  {
+    "question": "What is the minimum attendance requirement?",
+    "relevant_chunk_ids": [
+      "attendance.txt::chunk_0",
+      "attendance.txt::chunk_1"
+    ]
+  },
+  {
+    "question": "How is attendance percentage calculated?",
+    "relevant_chunk_ids": [
+      "attendance.txt::chunk_0"
+    ]
+  },
+  {
+    "question": "What percentage is the final exam worth?",
+    "relevant_chunk_ids": [
+      "grading.txt::chunk_0",
+      "grading.txt::chunk_1"
+    ]
+  },
+  {
+    "question": "When are the final exams?",
+    "relevant_chunk_ids": [
+      "course_schedule.txt::chunk_0",
+      "course_schedule.txt::chunk_1"
+    ]
+  }
+]

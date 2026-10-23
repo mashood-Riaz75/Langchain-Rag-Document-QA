@@ -1,0 +1,42 @@
+GRADING AND ASSESSMENT POLICY
+Institution: Example Learning Institute
+Academic Year: 2026-2027
+
+1. Assessment Components
+A course may use assignments, quizzes, laboratory work, projects, midterm examinations, and a final examination. The course instructor must communicate the assessment components and their weightings to students at the start of the course.
+
+2. Example Grade Distribution
+Unless a course outline specifies a different approved distribution, the following example may be used:
+- Assignments: 10%
+- Quizzes: 10%
+- Laboratory or practical work: 15%
+- Midterm examination: 25%
+- Final examination: 40%
+These percentages are an illustrative course distribution for this sample dataset. Students should consult the official outline for their own course.
+
+3. Grade Calculation
+A student's weighted course score is calculated by multiplying each assessment score by its weighting and adding the weighted results. For example, a student who earns 80% on an assessment weighted at 10% contributes 8 percentage points to the final course score.
+
+4. Letter Grades
+For this sample policy, the illustrative grade bands are:
+- A: 85-100
+- B: 75-84
+- C: 65-74
+- D: 50-64
+- F: below 50
+These bands are examples for testing a document question-answering system, not a statement of any real institution's official grading rules.
+
+5. Missed Assessments
+Students who miss an assessment should notify the instructor as soon as possible and explain the circumstances. The instructor may request supporting evidence and will follow the applicable course and institutional rules. A makeup assessment is not guaranteed.
+
+6. Academic Integrity
+Students must submit their own work unless collaboration is explicitly permitted. Plagiarism, unauthorized collaboration, impersonation, and use of prohibited materials may be treated as academic misconduct. Students should follow the instructions provided for each assessment.
+
+7. Assignment Submission
+Assignments must be submitted through the method and before the deadline announced by the instructor. Late submissions may receive a penalty if the course rules specify one. Students should retain confirmation of electronic submission.
+
+8. Rechecking and Grade Questions
+A student who believes a score was recorded incorrectly should first contact the instructor and identify the assessment, recorded score, and reason for the request. Formal review procedures and deadlines depend on the institution's rules.
+
+9. Final Course Result
+The final result is based on the approved course assessment scheme. Students should not assume that the example weights or grade bands in this sample document apply to every course.

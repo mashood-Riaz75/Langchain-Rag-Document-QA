@@ -1,0 +1,58 @@
+COURSE SCHEDULE AND ACADEMIC CALENDAR
+Institution: Example Learning Institute
+Term: Fall 2026
+All dates and courses in this file are fictional sample data for testing a RAG application.
+
+1. Weekly Schedule
+Monday:
+- 09:00-10:30 — Python Programming — Room A101
+- 11:00-12:30 — Database Fundamentals — Lab B203
+- 14:00-15:00 — Academic Writing — Room C102
+
+Tuesday:
+- 09:00-10:30 — Web Development — Lab B201
+- 11:00-12:30 — Data Structures — Room A104
+- 13:30-15:00 — Python Programming Lab — Lab B203
+
+Wednesday:
+- 10:00-11:30 — Database Fundamentals — Room A101
+- 12:00-13:30 — Web Development — Lab B201
+- 14:00-15:00 — Student Support Hour — Student Services Office
+
+Thursday:
+- 09:00-10:30 — Data Structures — Room A104
+- 11:00-12:30 — Academic Writing — Room C102
+- 13:30-15:00 — Database Fundamentals Lab — Lab B203
+
+Friday:
+- 09:00-10:30 — Web Development — Lab B201
+- 11:00-12:00 — Project Workshop — Innovation Room
+- 13:00-14:00 — Instructor Consultation — By appointment
+
+2. Course Descriptions
+Python Programming introduces variables, data types, conditional statements, loops, functions, modules, file handling, and basic exception handling. The laboratory gives students practice writing and testing Python programs.
+
+Database Fundamentals covers relational database concepts, tables, primary and foreign keys, SQL queries, joins, normalization, and transaction basics. The lab includes SQL exercises.
+
+Web Development introduces HTML, CSS, JavaScript, HTTP concepts, frontend development, and basic backend integration. Practical sessions focus on building and testing small web pages and applications.
+
+Data Structures covers arrays, linked lists, stacks, queues, trees, searching, sorting, and introductory algorithm analysis.
+
+Academic Writing focuses on organizing paragraphs, writing clear arguments, citing sources, and revising technical documents.
+
+3. Important Dates
+- Term begins: 7 September 2026
+- Add/drop period ends: 18 September 2026
+- Midterm assessment window: 26-30 October 2026
+- Project proposal deadline: 13 November 2026
+- Final assessment window: 14-18 December 2026
+- Term ends: 18 December 2026
+
+4. Room and Schedule Notes
+Room assignments may change if a laboratory or classroom is unavailable. Students should check the latest notice from the academic office before attending a session.
+
+5. Consultation
+Students may attend the Friday instructor consultation by appointment. They should send a request to the instructor and briefly describe the topic they want to discuss.
+
+6. Student Support
+The Wednesday student support hour is intended for questions about course registration, timetable conflicts, and finding academic resources. It is not a replacement for a formal appeal or assessment review.

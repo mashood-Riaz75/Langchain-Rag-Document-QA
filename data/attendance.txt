@@ -1,0 +1,28 @@
+ATTENDANCE POLICY
+Institution: Example Learning Institute
+Academic Year: 2026-2027
+
+1. Minimum Attendance Requirement
+Students are expected to maintain at least 80% attendance in each enrolled course. Attendance is calculated using the total number of sessions held for that course and the number of sessions attended by the student.
+
+2. Attendance Calculation
+Attendance percentage = (sessions attended / total sessions held) * 100.
+For example, if a course has held 25 sessions and a student attended 21, the attendance percentage is (21 / 25) * 100 = 84%.
+
+3. Shortage of Attendance
+A student whose attendance falls below 80% may be restricted from taking the final examination. The department reviews attendance records before examinations. Students should contact the course instructor or academic office as soon as they notice a shortage.
+
+4. Medical or Emergency Absence
+Students who miss sessions because of illness or an emergency should notify the instructor as soon as possible. Supporting documents may be requested by the academic office. Submitting documents does not automatically guarantee that an absence will be excused.
+
+5. Late Arrival
+An instructor may record a late arrival according to the rules announced at the beginning of the course. Students should ask their instructor how late arrivals affect attendance records.
+
+6. Attendance Records
+Instructors maintain attendance records for their classes. Students should review their records regularly and report any suspected error to the instructor. Requests to correct attendance should include the course name, date of the session, and a brief explanation.
+
+7. Online Sessions
+For online sessions, attendance may be based on participation in the live session or completion of an assigned activity, as specified by the instructor. Merely opening the meeting link may not count as attendance.
+
+8. Questions and Appeals
+Students with concerns about their attendance status should contact the course instructor first. If the issue remains unresolved, they may contact the academic office. Appeals should be submitted before the examination schedule whenever possible.
